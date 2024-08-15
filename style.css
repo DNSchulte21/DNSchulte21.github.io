@@ -52,7 +52,7 @@ a {
 }
 
 a:hover {
-  color: grey;
+  color: rgb(15, 15, 192);
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
@@ -241,12 +241,12 @@ section {
 
 .btn-color-1,
 .btn-color-2:hover {
-  background: rgb(53, 53, 53);
+  background: rgb(25, 148, 237);
   color: white;
 }
 
 .btn-color-1:hover {
-  background: rgb(0, 0, 0);
+  background: rgb(97, 9, 180);
 }
 
 .btn-color-2 {
